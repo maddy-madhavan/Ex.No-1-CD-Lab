@@ -2,9 +2,9 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Register Number :212224220017
+# Register Number :21222422054
 
-# Date :01.02.2026
+# Date :14.02.2026
 
 # AIM:
 
@@ -86,7 +86,7 @@ int main() {
 }
 ```
 # OUTPUT:
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0a8c779f-2dbd-4e09-bc23-5adb542c7436" />
+<img width="1686" height="1030" alt="Screenshot 2026-02-14 111612" src="https://github.com/user-attachments/assets/fb484b4a-37e2-49fd-8e73-7796766544ee" />
 
 # RESULT:
 
