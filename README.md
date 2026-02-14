@@ -2,9 +2,9 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Register Number :212224220017
+# Register Number :212224220054
 
-# Date :01.02.2026
+# Date :14.02.2026
 
 # AIM:
 
@@ -23,7 +23,7 @@ To write a C program to implement a symbol table.
 
 # PROGRAM:
 ```
-#include <stdio.h>
+**#include <stdio.h>
 #include <ctype.h>
 #include <string.h>
 
@@ -82,11 +82,11 @@ int main() {
     if (flag == 0)
         printf("Symbol Not Found\n");
 
-    return 0;
+    return 0;**
 }
 ```
 # OUTPUT:
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/0a8c779f-2dbd-4e09-bc23-5adb542c7436" />
+<img width="1686" height="1030" alt="Screenshot 2026-02-14 111612" src="https://github.com/user-attachments/assets/3567c433-4c5b-4b94-8f56-2102dac2f53d" />
 
 # RESULT:
 
